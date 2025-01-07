@@ -19,6 +19,6 @@ I am currently dedicated to:
 Feel free to reach out to me:
 - **Email**: batrarohit033@gmail.com
 - **LinkedIn**: www.linkedin.com/in/rohit-batra-434496232
-- **GitHub**: [github.com/rohitbatra](https://github.com/rohitbatra)
+- **GitHub**: [github.com/rohitbatra](https://github.com/RohitCoderX)
 
 Let's connect and collaborate on exciting projects!
